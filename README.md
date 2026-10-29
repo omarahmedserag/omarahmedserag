@@ -26,55 +26,77 @@
 
 ## About Me
 
-I’m Omar Ahmed Serag, a passionate developer and robotics-focused engineer interested in intelligent systems, perception, and autonomous technologies. I enjoy working on projects that combine robotics, embedded systems, machine learning, and real-world experimentation.
+I’m Omar Ahmed Serag, a robotics and AI-focused engineer with interest in autonomous systems, perception, simulation, and embedded control. I enjoy developing intelligent robotic solutions that combine experimental validation, sensing, and real-world problem solving.
 
 - 🤖 Robotics and autonomous systems
-- 👁️ Perception, localization, and simulation
-- 🧠 AI and probabilistic modeling
-- ⚙️ Embedded systems and control engineering
-- 📚 Always learning and improving through hands-on development
+- 👁️ Computer vision, localization, and perception
+- 🧠 AI, probabilistic modeling, and data-driven decision making
+- ⚙️ Embedded systems, control, and prototyping
+- 📚 Continuously learning through research and hands-on engineering
 
 ---
 
 ## Skills
 
 ### Robotics & Simulation
-
-<p align="left">
-  <img src="https://img.shields.io/badge/ROS2-ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/ROS-ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gazebo-Gazebo%20Classic-3A7BD5?style=for-the-badge&logo=gazebo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/RGB-D-Perception-00BFA5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Localization-Concepts-FFB000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Robotic%20Testing-Test%20Automation-8A2BE2?style=for-the-badge" />
-</p>
+- ROS 2, ROS
+- Gazebo Classic
+- Blender
+- OpenCV
+- RGB-D perception
+- Localization concepts
+- Robotic testing and validation
 
 ### Programming & AI
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2FC%2B%2B-C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit-learn-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gaussian%20Processes-GP-4B8BBE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Bayesian%20Networks-BN-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-</p>
+- Python
+- C/C++
+- scikit-learn
+- Gaussian processes
+- Bayesian networks
+- Experimental validation
+- Git
+- Linux / Ubuntu
 
 ### Electronics & Control
+- MATLAB / Simulink
+- FPGA logic
+- MOSFET circuits
+- Embedded prototyping
+- Motor control
+- UART / SPI / I²C
+- Wireless modelling
 
-<p align="left">
-  <img src="https://img.shields.io/badge/MATLAB-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Simulink-Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/FPGA-FPGA-00A6D6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MOSFET-Circuits-FF8C00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Embedded-Prototyping-3B82F6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Motor%20Control-Control-10B981?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UART%20%7C%20SPI%20%7C%20I2C-Communication-F59E0B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Wireless-Modelling-8B5CF6?style=for-the-badge" />
-</p>
+---
+
+## Project Samples
+
+These examples show some of the robotics, simulation, and AI-related projects I have worked on.
+
+### 1) Robot Controller & Power Architecture
+
+![Robot schematic](assets/robot_controller_schematic.png)
+
+This design represents a custom mobile robot electronics architecture, including motor control, power distribution, communication interfaces, and embedded hardware integration for robotic actuation.
+
+### 2) Indoor Navigation / Mapping Layout
+
+![Navigation map](assets/navigation_map.png)
+
+This top-down environment represents a structured indoor map used for robot navigation, obstacle handling, and localization experiments.
+
+### 3) 3D Robotic Simulation Environment
+
+![Robot simulation](assets/robot_simulation.png)
+
+A 3D simulation of an autonomous robot operating in a bounded environment. The scene demonstrates perception, sensor scanning, obstacle awareness, and navigation behavior in a Gazebo-like setup.
+
+### 4) Emergency Detection System
+
+![Emergency detector](assets/emergency_detector.png)
+
+This project focuses on real-time detection and identification of emergency-related objects, using computer vision and scene understanding to support safety monitoring and perception tasks.
+
+> Note: Add the corresponding images into an `assets/` folder in the repository using the exact file names above for the gallery to render correctly.
 
 ---
 
